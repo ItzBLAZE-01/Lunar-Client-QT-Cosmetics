@@ -16,6 +16,9 @@ Free Cosmetics & Emotes agent for Lunar Client QT (Youded-byte's Fork)
 # Later Lunar Updates
 Later Lunar Client updates may break the "Lunar Cosmetics" Agent, if that happens, check https://discord.gg/vFn4Va9B8G and download that version (.jar file), then put it in %userprofile%/.lunarclient/offline/multiver.
 
+# Support
+Join [My Discord Server](https://discord.gg/7BUgC7SS9p) for support.
+
 # Notes
 I am not the original author of this agent.
 The original author is unknown, but the file was recieved from "@retries" on YouTube.
