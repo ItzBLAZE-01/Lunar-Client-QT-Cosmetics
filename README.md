@@ -11,7 +11,8 @@ https://github.com/Youded-byte/lunar-client-qt
 3) Then Launch the game.
 
 # Incompatibilities
-Incompatible with: "LunarPacksFix" agent.
+1) Incompatible with: "LunarPacksFix" agent.
+2) Lunar Cosmetics DOESN'T WORK with cracked accounts due to how lunar client's api works. This also applies to Premium Accounts playing on cracked servers. (This is also the case if you actually own the cosmetics).
 
 # Later Lunar Updates
 Later Lunar Client updates may break the "Lunar Cosmetics" Agent, if that happens, check https://discord.gg/vFn4Va9B8G and download that version (.jar file), then put it in %userprofile%/.lunarclient/offline/multiver.
