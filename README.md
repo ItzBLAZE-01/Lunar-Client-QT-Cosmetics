@@ -2,8 +2,7 @@
 Free Cosmetics & Emotes agent for Lunar Client QT (Youded-byte's Fork)
 
 # Required
-Youded-byte's Fork and Edited version of Lunar Client QT is required.
-https://github.com/Youded-byte/lunar-client-qt
+[Youded-byte's Fork and Edited version of Lunar Client QT](https://github.com/Youded-byte/lunar-client-qt) is required.
 
 # How to use
 1) Put the "LunarCosmetics.jar" file in the "agents (DON'T TOUCH)" folder.
