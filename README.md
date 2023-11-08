@@ -1,4 +1,4 @@
-# Lunar-Client-QT-Cosmetics-Agent
+# Lunar Client QT Cosmetics Agent
 Free Cosmetics & Emotes agent for Lunar Client QT (Youded-byte's Fork)
 
 # Required
