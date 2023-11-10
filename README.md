@@ -12,6 +12,7 @@ Free Cosmetics & Emotes agent for Lunar Client QT (Youded-byte's Fork)
 # Incompatibilities
 1) Incompatible with: "LunarPacksFix" agent.
 2) Lunar Cosmetics DOESN'T WORK with cracked accounts due to how lunar client's api works. This also applies to Premium Accounts playing on cracked servers. (This is also the case if you actually own the cosmetics).
+3) This will not work with Nilsen84's Lunar Client QT v2.0.5 as it already has a feature for cosmetics.
 
 # Later Lunar Updates
 Later Lunar Client updates may break the "Lunar Cosmetics" Agent, if that happens, check https://discord.gg/vFn4Va9B8G and download that version (.jar file), then put it in %userprofile%/.lunarclient/offline/multiver.
